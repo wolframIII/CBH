@@ -20,10 +20,9 @@ PETG was used for the design and print testing. The documentation includes fit n
 
 - [CAD renders](media/renders/)
 - [Enhanced photos](media/photos/)
-- [Test videos](media/videos/)
 - [Looping GIFs](media/gifs/)
 
-The uploaded photo and video copies have GPS location metadata removed. The rendered reference images are CAD renders; photos and videos show printed parts and tests.
+The uploaded photo copies have GPS location metadata removed. The rendered reference images are CAD renders; photos show printed parts and tests.
 
 ## License
 
